@@ -1,7 +1,7 @@
 {
     "name": "hassan-elshazly-eida/user-service-api",
     "require": {
-        "laravel/framework": "^8.75"
+        "laravel/framework": "^10.10"
     },
     "autoload": {
         "psr-4": {
